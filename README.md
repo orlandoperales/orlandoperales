@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orlandoperales
-- 👀 I’m interested in programming on Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming on JAVASCRIPT and Python
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ... operalesv@gmail.com  or my number MX (833) 1571582
 
