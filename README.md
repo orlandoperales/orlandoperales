@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @orlandoperales
-- 👀 I’m interested in programming on JAVASCRIPT and Python
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me ... operalesv@gmail.com  or my number MX (833) 1571582
+- 🌱 I’m currently learning HTML, CSS (Bootstrap 5), Javascript and Python
+- 💞️ I’m looking to collaborate on coding projects.
+- 📫 How to reach me ... operalesv@gmail.com  or my number MX +52 (833) 1571582
 
 <!---
 orlandoperales/orlandoperales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
