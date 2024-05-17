@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @orlandoperales
-- 🌱 I’m currently learning HTML, CSS (Bootstrap 5), Javascript and Python
-- 💞️ I’m looking to collaborate on coding projects.
+- 🌱 I’m currently learning HTML, CSS (Bootstrap 5)
 - 📫 How to reach me ... operalesv@gmail.com  or my number MX +52 (833) 1571582
 
 <!---
